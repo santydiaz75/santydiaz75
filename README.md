@@ -61,6 +61,24 @@ Si algo se puede automatizar, optimizar o refactorizar bajo principios SOLID... 
 
 ---
 
+## 📂 Repositorios Destacados
+
+Aquí puedes echar un vistazo a algunos de los proyectos públicos en los que he estado trabajando:
+
+![alt text](icons8-cubo-de-rubik-16.png) [rubik-cube](https://github.com/santydiaz75/rubik-cube) 
+
+**Descripción:** Aplicación web para resolver el cubo de Rubik. A partir del estado inicial de un cubo Rubik 3x3, se obtiene una solución y se reproducen sus movimientos paso a paso. Las partidas, los cubos y sus estados intermedios se guardan en MongoDB.
+
+**Tecnologías:** `Vue 3` • `Typescript` • `Python` • `FastAPI` • `MongoDB` • `SpecKit`
+
+🏠 [RentManagerSDD](https://github.com/santydiaz75/rubik-cube) 
+
+**Descripción:** RentManagerSDD es una aplicación web sencilla para gestionar la renta de propiedades. Permite organizar un inventario de inmuebles, mantener registros de inquilinos y registrar contratos de renta desde una interfaz local..
+
+**Tecnologías:** `Javascript` • `CSS` • `HTML` • `SDD` 
+
+---
+
 ## 🤝 Conectemos
 
 ¿Quieres hablar sobre arquitectura limpia, bases de datos optimizadas o metodologías ágiles?
