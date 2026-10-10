@@ -80,7 +80,7 @@ Si algo se puede automatizar, optimizar o refactorizar bajo principios SOLID... 
 
 Aquí puedes echar un vistazo a algunos de los proyectos públicos en los que he estado trabajando:
 
-🚗 [RentACarCleanArchitectur](https://github.com/santydiaz75/RentACarCleanArchitecture) 
+🚗 [RentACarCleanArchitecture](https://github.com/santydiaz75/RentACarCleanArchitecture) 
 
 **Descripción:** Una aplicación de gestión de alquiler de vehículos desarrollada con .NET 10 siguiendo los principios de Clean Architecture. Este proyecto demuestra patrones y prácticas recomendadas en desarrollo de software moderno con ASP.NET Core.
 
