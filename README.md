@@ -80,6 +80,12 @@ Si algo se puede automatizar, optimizar o refactorizar bajo principios SOLID... 
 
 Aquí puedes echar un vistazo a algunos de los proyectos públicos en los que he estado trabajando:
 
+🚗 [RentACarCleanArchitectur](https://github.com/santydiaz75/RentACarCleanArchitecture) 
+
+**Descripción:** Una aplicación de gestión de alquiler de vehículos desarrollada con .NET 10 siguiendo los principios de Clean Architecture. Este proyecto demuestra patrones y prácticas recomendadas en desarrollo de software moderno con ASP.NET Core.
+
+**Tecnologías:** `.NET 10.0` • `JWT Bearer` • `xUnit` • `FluentAssertions` • `FastAPI` • `PostgreSQL ` • `Serilog ` • `Docker`
+
 ![alt text](icons8-cubo-de-rubik-16.png) [rubik-cube](https://github.com/santydiaz75/rubik-cube) 
 
 **Descripción:** Aplicación web para resolver el cubo de Rubik. A partir del estado inicial de un cubo Rubik 3x3, se obtiene una solución y se reproducen sus movimientos paso a paso. Las partidas, los cubos y sus estados intermedios se guardan en MongoDB.
