@@ -34,7 +34,7 @@ Si algo se puede automatizar, optimizar o refactorizar bajo principios SOLID... 
    
     [Frontend]               
      • JavaScript / jQuery         
-     • Vue.js / AngularJS         
+     • Vue.js / Angular        
    
     [Arquitectura y diseño]
      • Solid / Lean / Clean Architecyure 
