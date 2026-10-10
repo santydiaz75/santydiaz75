@@ -18,24 +18,39 @@ Si algo se puede automatizar, optimizar o refactorizar bajo principios SOLID... 
 
 ---
 
-## 🛠️ Mi Caja de Herramientas Tecnológicas
+## 🛠️ Mi caja de herramientas
 
 ```text
     ____________________________________________________
 
-   | [🖥️ Backend]             | [💾 Bases de Datos]      |
-   |  • .NET / C# / VB.NET    |  • MS SQL Server (T-SQL) |
-   |  • Node.js / Java        |  • PostgreSQL / MySQL    |
-   |__________________________|  • MongoDB / Couchbase   |
-   | [🎨 Frontend]            | [🚀 DevOps & Agile]      |
-   |  • JavaScript / jQuery   |  • Azure DevOps / GitHub |
-   |  • Vue.js / AngularJS    |  • Scrum / Kanban / TDD  |
-   |__________________________|__________________________|
-```
+    [Backend]                
+     • .NET / C# / VB.NET        
+     • Node.js / Java / Python
+
+    [Bases de Datos]      
+     • MS SQL Server (T-SQL) 
+     • PostgreSQL / MySQL
+     • MongoDB / Couchbase    
+   
+    [Frontend]               
+     • JavaScript / jQuery         
+     • Vue.js / AngularJS         
+   
+    [Arquitectura y diseño]
+     • Solid / Lean / Clean Architecyure 
+     • TDD / DDD
+
+    [Agile]
+     • Scrum / Kanban
+   
+    [DevOps]
+     • Azure DevOps / GitHub
+
+```   
 
 ---
 
-## 📈 Mi Trayectoria en un Vistazo
+## 📈 Mi trayectoria en un vistazo
 
 *   **Backend & Arquitectura:** Especialista en construir sistemas escalables, aplicando Clean Code, patrones de diseño y desarrollo guiado por pruebas (TDD/XP).
 *   **Integraciones de Impacto:** He participado en todas las fases (análisis de requisitos, diseño, codificación, pruebas y despliegue  ) en proyectos como la API Rest para conectar el ecosistema SIMA Suite (software especializado de gestión para concesionarios e importadores de automoción) con el sistema de pedidos a fábrica Minivom de Toyota.
@@ -44,7 +59,7 @@ Si algo se puede automatizar, optimizar o refactorizar bajo principios SOLID... 
 
 ---
 
-## 📜 Certificaciones Destacadas
+## 📜 Certificaciones destacadas
 
 *   💻 **Ingeniero Técnico en Informática de Sistemas** Universidade de La Laguna
 *   ☁️ **Azure Fundamentals (AZ-900)** Microsoft Certified
@@ -53,7 +68,7 @@ Si algo se puede automatizar, optimizar o refactorizar bajo principios SOLID... 
 
 ---
 
-## ☕ Fun Facts / Sobre mí
+## ☕ Sobre mí
 
 *   ☕ Mi código corre gracias a una combinación óptima de cafeína y principios SOLID.
 *   👴 Empecé en esto cuando Visual Basic 6 era el rey del lugar (sí, he visto cosas que vosotros no creeríais).
@@ -61,7 +76,7 @@ Si algo se puede automatizar, optimizar o refactorizar bajo principios SOLID... 
 
 ---
 
-## 📂 Repositorios Destacados
+## 📂 Repositorios destacados
 
 Aquí puedes echar un vistazo a algunos de los proyectos públicos en los que he estado trabajando:
 
