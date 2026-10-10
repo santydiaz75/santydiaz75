@@ -46,9 +46,10 @@ Si algo se puede automatizar, optimizar o refactorizar bajo principios SOLID... 
 
 ## 📜 Certificaciones Destacadas
 
-*   ☁️ **Microsoft Certified:** Azure Fundamentals (AZ-900)
-*   ☕ **Experto Desarrollador Web con Java** (Red.es)
-*   📊 **MS SQL Server Database Design and Implementation**
+*   💻 **Ingeniero Técnico en Informática de Sistemas** Universidade de La Laguna
+*   ☁️ **Azure Fundamentals (AZ-900)** Microsoft Certified
+*   ☕ **Experto Desarrollador Web con Java** Red.es
+*   📊 **MS SQL Server Database Design and Implementation** Microsoft Certified
 
 ---
 
@@ -56,7 +57,7 @@ Si algo se puede automatizar, optimizar o refactorizar bajo principios SOLID... 
 
 *   ☕ Mi código corre gracias a una combinación óptima de cafeína y principios SOLID.
 *   👴 Empecé en esto cuando Visual Basic 6 era el rey del lugar (sí, he visto cosas que vosotros no creeríais).
-*   🎓 Además de la informática, tengo interés las *Energías Renovables*... porque el conocimiento no ocupa lugar y el planeta también necesita un buen *refactor*.
+*   🎓 Además de la informática, tengo interés en las *Energías Renovables*... porque el conocimiento no ocupa lugar y el planeta también necesita un buen *refactor*.
 
 ---
 
