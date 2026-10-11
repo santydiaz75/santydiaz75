@@ -1,4 +1,4 @@
-# ¡Hola mundo! 🚀 Soy Santiago Díaz Expósito
+# ¡Hola mundo! ![alt text](images/image.png) Soy Santiago Díaz Expósito
 
 ```text
      _______.     ___      .__   __. .___________.____    ____ 
@@ -86,7 +86,7 @@ Aquí puedes echar un vistazo a algunos de los proyectos públicos en los que he
 
 **Tecnologías:** `.NET 10.0` • `JWT Bearer` • `xUnit` • `FluentAssertions` • `FastAPI` • `PostgreSQL ` • `Serilog ` • `Docker`
 
-![alt text](icons8-cubo-de-rubik-16.png) [rubik-cube](https://github.com/santydiaz75/rubik-cube) 
+![alt text](images/cubo-de-rubik-16.png) [rubik-cube](https://github.com/santydiaz75/rubik-cube) 
 
 **Descripción:** Aplicación web para resolver el cubo de Rubik. A partir del estado inicial de un cubo Rubik 3x3, se obtiene una solución y se reproducen sus movimientos paso a paso. Las partidas, los cubos y sus estados intermedios se guardan en MongoDB.
 
