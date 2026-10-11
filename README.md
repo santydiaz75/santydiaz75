@@ -1,4 +1,4 @@
-# ¡Hola mundo! ![alt text](images/image.png) Soy Santi Díaz
+# ¡Hola mundo! ![alt text](images/shark-32.png) Soy Santi Díaz
 
 
 ```text
@@ -63,21 +63,22 @@ Si algo se puede automatizar, optimizar o refactorizar bajo principios SOLID... 
 ## 📜 Certificaciones destacadas
 
 *   💻 **Ingeniero Técnico en Informática de Sistemas** Universidade de La Laguna
-*   ☁️ **Azure Fundamentals (AZ-900)** Microsoft Certified
-*   ☕ **Experto Desarrollador Web con Java** Red.es
-*   📊 **MS SQL Server Database Design and Implementation** Microsoft Certified
+*   ![alt text](images/azure-16.png) **Azure Fundamentals (AZ-900)** Microsoft Certified
+*   ![alt text](images/java-16.png) **Experto Desarrollador Web con Java** Red.es
+*   ![alt text](images/sql-16.png) **MS SQL Server Database Design and Implementation** Microsoft Certified
+*   ![alt text](images/methodology-16.png) **Master en Metodologías Ágiles de Gestión de Proyectos y Transformación   Digital** TECH Universidad Tecnológica
 
 ---
 
 ## ☕ Sobre mí
 
 *   ☕ Mi código corre gracias a una combinación óptima de cafeína y principios SOLID.
-*   👴 Empecé en esto cuando Visual Basic 6 era el rey del lugar (sí, he visto cosas que vosotros no creeríais).
-*   🎓 Además de la informática, tengo interés en las *Energías Renovables*... porque el conocimiento no ocupa lugar y el planeta también necesita un buen *refactor*.
+*   ![alt text](images/experience-skill-16.png) Empecé en esto cuando Visual Basic 6 era el rey del lugar (sí, he visto cosas que vosotros no creeríais).
+*   ![alt text](images/solar-panel-16.png) Además de la informática, tengo interés en las *Energías Renovables*... porque el conocimiento no ocupa lugar y el planeta también necesita un buen *refactor*.
 
 ---
 
-## 📂 Repositorios destacados
+## ![alt text](images/github-32.png) Repositorios destacados
 
 Aquí puedes echar un vistazo a algunos de los proyectos públicos en los que he estado trabajando:
 
@@ -103,8 +104,8 @@ Aquí puedes echar un vistazo a algunos de los proyectos públicos en los que he
 
 ## 🤝 Conectemos
 
-¿Quieres hablar sobre arquitectura limpia, bases de datos optimizadas o metodologías ágiles?
+¿Quieres hablar sobre arquitectura limpia, patrones de diseño, bases de datos optimizadas o metodologías ágiles?
 
-*   💼 **LinkedIn:** [Santiago Díaz Expósito](https://www.linkedin.com/in/santiago-d%C3%ADaz-exp%C3%B3sito-4ba539b5/)
-*   📧 **Email:** santydiaz75@gmail.com
+*   ![alt text](images/linkedin-16.png) **LinkedIn:** [Santiago Díaz Expósito](https://www.linkedin.com/in/santiago-d%C3%ADaz-exp%C3%B3sito-4ba539b5/)
+*   ![alt text](images/gmail-logo-16.png) **Email:** santydiaz75@gmail.com
 
