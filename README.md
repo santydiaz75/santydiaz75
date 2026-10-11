@@ -1,4 +1,5 @@
-# ¡Hola mundo! ![alt text](images/image.png) Soy Santiago Díaz Expósito
+# ¡Hola mundo! ![alt text](images/image.png) Soy Santi Díaz
+
 
 ```text
      _______.     ___      .__   __. .___________.____    ____ 
