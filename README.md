@@ -1,4 +1,4 @@
-# ¡Hola mundo! 🚀 Soy Santiago Díaz Expósito
+# ¡Hola mundo! 🚀 Soy Santi Díaz
 
 ```text
      _______.     ___      .__   __. .___________.____    ____ 
