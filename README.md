@@ -86,7 +86,7 @@ Aquí puedes echar un vistazo a algunos de los proyectos públicos en los que he
 
 **Descripción:** Una aplicación de gestión de alquiler de vehículos desarrollada con .NET 10 siguiendo los principios de Clean Architecture. Este proyecto demuestra patrones y prácticas recomendadas en desarrollo de software moderno con ASP.NET Core.
 
-**Tecnologías:** `.NET 10.0` • `JWT Bearer` • `xUnit` • `FluentAssertions` • `PostgreSQL ` • `Serilog ` • `Docker`
+**Tecnologías:** `.NET 10.0` • `JWT Bearer` • `xUnit` • `FluentAssertions` • `PostgreSQL ` • `Serilog ` • `Docker` • `Testcontainers `
 
 ![alt text](images/cubo-de-rubik-16.png) [rubik-cube](https://github.com/santydiaz75/rubik-cube) 
 
