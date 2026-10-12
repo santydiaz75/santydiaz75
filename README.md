@@ -94,7 +94,7 @@ Aquí puedes echar un vistazo a algunos de los proyectos públicos en los que he
 
 **Tecnologías:** `Vue 3` • `Typescript` • `Python` • `FastAPI` • `MongoDB` • `SpecKit`
 
-🏠 [RentManagerSDD](https://github.com/santydiaz75/rubik-cube) 
+🏠 [RentManagerSDD](https://github.com/santydiaz75/RentManagerSDD) 
 
 **Descripción:** RentManagerSDD es una aplicación web sencilla para gestionar la renta de propiedades. Permite organizar un inventario de inmuebles, mantener registros de inquilinos y registrar contratos de renta desde una interfaz local..
 
