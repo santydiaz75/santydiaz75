@@ -96,7 +96,7 @@ Aquí puedes echar un vistazo a algunos de los proyectos públicos en los que he
 
 🏠 [RentManagerSDD](https://github.com/santydiaz75/RentManagerSDD) 
 
-**Descripción:** RentManagerSDD es una aplicación web sencilla para gestionar la renta de propiedades. Permite organizar un inventario de inmuebles, mantener registros de inquilinos y registrar contratos de renta desde una interfaz local..
+**Descripción:** RentManagerSDD es una aplicación web sencilla para gestionar el alquiler de propiedades. Permite organizar un inventario de inmuebles, mantener registros de inquilinos y registrar contratos de alquiler desde una interfaz local..
 
 **Tecnologías:** `Javascript` • `CSS` • `HTML` • `SDD` 
 
