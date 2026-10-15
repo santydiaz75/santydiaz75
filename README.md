@@ -102,10 +102,21 @@ Aquí puedes echar un vistazo a algunos de los proyectos públicos en los que he
 
 ---
 
+## 🚀 Proyectos personales
+
+### [NetTimeManager](https://santydiaz75.github.io/NetTimeManager-site/)
+
+**Sistema completo de registro de jornada laboral**, conforme al Real Decreto-ley 8/2019.
+
+Aplicación web para gestionar el registro horario de la jornada laboral.
+
+**Tecnologías:** `.NET 10` • `Blazor Server` • `SQLite` • `SQL Server` • `ASP.NET Core Identity`
+
+---
+
 ## 🤝 Conectemos
 
 ¿Quieres hablar sobre arquitectura limpia, patrones de diseño, bases de datos optimizadas o metodologías ágiles?
 
 *   ![alt text](images/linkedin-16.png) **LinkedIn:** [Santiago Díaz Expósito](https://www.linkedin.com/in/santiago-d%C3%ADaz-exp%C3%B3sito-4ba539b5/)
 *   ![alt text](images/gmail-logo-16.png) **Email:** santydiaz75@gmail.com
-
